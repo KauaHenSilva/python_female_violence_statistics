@@ -31,13 +31,13 @@ python --version:
 1. Clone the repository to your local machine:
    
   ```
-  git clone https://github.com/KauaHenSilva/python_game_rpg
+  git clone https://github.com/KauaHenSilva/python_female_violence_statistics
   ```
 
 2. Navigate to the project directory:
    
   ```
-  cd python_game_rpg
+  cd python_female_violence_statistics
   ```
 
 3. Navigate to the project directory:
